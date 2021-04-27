@@ -1,0 +1,44 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrose-um {
+    object-fit: cover;
+    object-position: 0 25%;
+    height: 600px;
+}
+
+.imagem-carrose-dois {
+    object-fit: cover;
+    object-position: 0 25%;
+    height: 600px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.fonte-paragrafo {
+    font-size: 20px;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+.rodape {
+    font-size:20px;
+}
